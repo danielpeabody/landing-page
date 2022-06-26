@@ -1,0 +1,26 @@
+html {
+    font-size: 62.5%;
+}
+
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.firstblock {
+    background-color: blue;
+}
+
+.secondblock {
+    background-color: red;
+}
+
+.thirdblock {
+    background-color: green;
+}
+
+.lastblock {
+    background-color: yellow;
+}
